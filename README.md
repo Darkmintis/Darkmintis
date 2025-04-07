@@ -1,10 +1,9 @@
-<!-- BANNER -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FFEA&center=true&vCenter=true&multiline=true&width=800&lines=Hey+there%2C+I'm+darkmintis!;Cyber+Security+Architect+%7C+Toolmaker+%7C+Digital+Warrior;Building+Hacker+Tools+%F0%9F%94%8F+Living+by+Values" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FFB3&center=true&vCenter=true&multiline=true&width=900&lines=darkmintis+%3A%3A+Cyber+Architect+%7C+Offensive+Engineer;Building+Untraceable+Code...;Decrypting+Reality...+Executing+Vision..." alt="darkmintis typing animation" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=darkmintis&label=Profile%20views&color=00ffee&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=darkmintis&label=Profile%20views&color=0ef&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -38,17 +37,12 @@
 
 ---
 
-## 🏛️ GitHub Organizations I Lead
 
-| Org | Purpose |
-|-----|---------|
-| 🔐 [**D-Dark-Lab**](https://github.com/D-Dark-Lab) | Offensive Cyber Tools |
-| ⚔️ [**D-Project-24**](https://github.com/D-Project-24) | 24-Hour Security |
-| 🎮 [**Drimics-Games**](https://github.com/Drimics-Games) | Game Dev Projects |
-| 🧩 [**Minix-Lab**](https://github.com/Minix-Lab) | Mini-Tools & Extensions |
-| 🌐 [**Round-Tech**](https://github.com/Round-Tech) | SaaS for the Public |
+## 🌌 Organizations I Lead
 
-> Each org is part of a master plan to build the most functional, creative, and disruptive digital ecosystem.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=300&color=F9F9F9&width=800&center=true&vCenter=true&lines=@D-Dark-Lab;@Drimics-Games;@D-Project24;@Minix-Lab;@BlockTech-Solutions;@Round-Tech;@Wallora-Themes;@ACE-Core" />
+</p>
 
 ---
 
