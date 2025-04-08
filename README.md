@@ -6,10 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=darkmintis&label=Profile%20Views&color=FF4500&style=flat" alt="profile views" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKz2b3wyk65g17a/giphy.gif" alt="volcano eruption" width="300" />
-</p>
-
 ## 🧠 Who is darkmintis?
 
 🚀 A future-proof developer and ethical hacker shaping a cyber empire through discipline, tools, and values.
