@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=2500&pause=500&color=FF0000&background=000000¢er=true&vCenter=true&multiline=true&width=900&lines=%F0%9F%8C%8B+Darkmintis+%F0%9F%8C%8B+%3A%3A+Cyber+Architect+%7C+Offensive+Engineer;Forging+Untraceable+Code+from+the+Abyss...;Erupting+Reality+with+Precision...;Unleashing+Vision+Like+Lava..." alt="Darkmintis volcanic typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=2500&pause=500&color=FF0000&background=000000¢er=true&vCenter=true&multiline=true&width=900&lines=%F0%9F%8C%8B+Darkmintis+%F0%9F%8C%8B;Forging+Untraceable+Code+from+the+Abyss...;Erupting+Reality+with+Precision...;Unleashing+Vision+Like+Lava..." alt="Darkmintis volcanic typing animation" />
 </p>
 
 <p align="center">
