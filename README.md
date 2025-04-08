@@ -1,12 +1,14 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FFB3&center=true&vCenter=true&multiline=true&width=900&lines=darkmintis+%3A%3A+Cyber+Architect+%7C+Offensive+Engineer;Building+Untraceable+Code...;Decrypting+Reality...+Executing+Vision..." alt="darkmintis typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=2500&pause=500&color=FF0000&background=000000¢er=true&vCenter=true&multiline=true&width=900&lines=%F0%9F%8C%8B+Darkmintis+%F0%9F%8C%8B+%3A%3A+Cyber+Architect+%7C+Offensive+Engineer;Forging+Untraceable+Code+from+the+Abyss...;Erupting+Reality+with+Precision...;Unleashing+Vision+Like+Lava..." alt="Darkmintis volcanic typing animation" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=darkmintis&label=Profile%20views&color=0ef&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=darkmintis&label=Profile%20Views&color=FF4500&style=flat" alt="profile views" />
 </p>
 
----
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKz2b3wyk65g17a/giphy.gif" alt="volcano eruption" width="300" />
+</p>
 
 ## 🧠 Who is darkmintis?
 
