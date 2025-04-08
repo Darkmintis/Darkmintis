@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=24&duration=3000&pause=500&color=FF4500&background=000000¢er=true&vCenter=true&width=600&lines=Forging+Code+in+Molten+Flames...;Igniting+Reality+with+Precision...;Unleashing+Vision+Like+Lava..." alt="Darkmintis tagline animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=24&duration=3000&pause=500&color=FF4500&background=000000&center=true&vCenter=true&width=600&lines=Forging+Code+in+Molten+Flames...;Igniting+Reality+with+Precision...;Unleashing+Vision+Like+Lava..." alt="Darkmintis tagline animation" />
 </p>
 
 <p align="center">
