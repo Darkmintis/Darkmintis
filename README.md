@@ -12,19 +12,7 @@
 
 ---
 
-## 🧠 Who is Darkmintis?
-
-🚀 A future-proof developer and ethical hacker carving a cyber empire with discipline, tools, and unshakable values.
-
-- 🔥 Crafting 24-hour rapid projects with volcanic intensity.  
-- 🔐 Championing privacy, security, and offensive R&D.  
-- 💻 Building tools to shield, reveal, and automate.
-
-> _"Not here to impress — here to dominate with purpose."_
-
----
-
-## 👨‍💻 Tech & Tools Arsenal
+## 👨‍💻 Tools Arsenal
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-FF4500?style=flat-square&logo=python&logoColor=000000" />
@@ -32,12 +20,11 @@
   <img src="https://img.shields.io/badge/-JavaScript-FF4500?style=flat-square&logo=javascript&logoColor=000000" />
   <img src="https://img.shields.io/badge/-React-FF4500?style=flat-square&logo=react&logoColor=000000" />
   <img src="https://img.shields.io/badge/-Node.js-FF4500?style=flat-square&logo=node.js&logoColor=000000" />
-  <img src="https://img.shields.io/badge/-MongoDB-FF4500?style=flat-square&logo=mongodb&logoColor=000000" />
+  <img src="https://img.shields.io/badge/-MongoDB-FF4500?style=flat-square&logo=mongodb" />
   <img src="https://img.shields.io/badge/-Kali%20Linux-FF4500?style=flat-square&logo=kali-linux&logoColor=000000" />
   <img src="https://img.shields.io/badge/-Burp%20Suite-FF4500?style=flat-square&logo=burp-suite&logoColor=000000" />
   <img src="https://img.shields.io/badge/-Wireshark-FF4500?style=flat-square&logo=wireshark&logoColor=000000" />
   <img src="https://img.shields.io/badge/-Tails-FF4500?style=flat-square&logo=tails&logoColor=000000" />
-  <img src="https://img.shields.io/badge/-VS%20Code-FF4500?style=flat-square&logo=visual-studio-code&logoColor=000000" />
 </p>
 
 ---
