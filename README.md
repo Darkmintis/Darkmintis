@@ -20,16 +20,15 @@
 
 ## GitHub Stats
 
-## GitHub Stats
-
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=darkmintis&show_icons=true&hide_border=true&count_private=true&title_color=FF4500&text_color=FF4500&icon_color=FF4500&bg_color=00000000" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=darkmintis&hide_border=true&ring=FF4500&fire=FF4500&currStreakLabel=FF4500&sideLabels=FF4500&dates=FF4500&sideNums=FF4500&stroke=2E2E2E&background=00000000" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=darkmintis&show_icons=true&hide_border=true&count_private=true&title_color=FF4500&text_color=FF4500&icon_color=FF4500&bg_color=2E2E2E" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=darkmintis&hide_border=true&ring=FF4500&fire=FF4500&currStreakLabel=FF4500&sideLabels=FF4500&dates=FF4500&sideNums=FF4500&stroke=2E2E2E&background=2E2E2E" />
 </p>
 
 <p align="center">
-  <img width="92%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkmintis&layout=compact&hide_border=true&title_color=FF4500&text_color=FF4500&bg_color=00000000" />
+  <img width="92%" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkmintis&layout=compact&hide_border=true&title_color=FF4500&text_color=FF4500&bg_color=2E2E2E" />
 </p>
+
 
 
 ## GitHub Trophy Showcase
