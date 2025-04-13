@@ -11,28 +11,28 @@
 ## 👨‍💻 Tools Arsenal
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000000" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-Kali%20Linux-557C85?style=flat-square&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Burp%20Suite-6D6D6D?style=flat-square&logo=burp-suite&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Wireshark-9FEF00?style=flat-square&logo=wireshark&logoColor=000000" />
-  <img src="https://img.shields.io/badge/-Tails-3A3A3A?style=flat-square&logo=tails&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-Git-F1502F?style=flat-square&logo=git&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Metasploit-850F2D?style=flat-square&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/-WiFi%20Pineapple-00A2E8?style=flat-square&logo=hackaday&logoColor=white" />
-  <img src="https://img.shields.io/badge/-OpenVAS-8DBA00?style=flat-square&logo=openvas&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-Burp%20Collaborator-6D6D6D?style=flat-square&logo=burp-suite&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/-Nmap-FF7F00?style=flat-square&logo=nmap&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/-Kali%20Linux-557C85?style=for-the-badge&logo=kali-linux" />
+  <img src="https://img.shields.io/badge/-Burp%20Suite-6D6D6D?style=for-the-badge&logo=burp-suite" />
+  <img src="https://img.shields.io/badge/-Wireshark-9FEF00?style=for-the-badge&logo=wireshark" />
+  <img src="https://img.shields.io/badge/-Tails-3A3A3A?style=for-the-badge&logo=tails" />
+  <img src="https://img.shields.io/badge/-Git-F1502F?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/-Vim-019733?style=for-the-badge&logo=vim" />
+  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter" />
+  <img src="https://img.shields.io/badge/-Metasploit-850F2D?style=for-the-badge&logo=metasploit" />
+  <img src="https://img.shields.io/badge/-WiFi%20Pineapple-00A2E8?style=for-the-badge&logo=hackaday" />
+  <img src="https://img.shields.io/badge/-OpenVAS-8DBA00?style=for-the-badge&logo=openvas" />
+  <img src="https://img.shields.io/badge/-Nmap-FF7F00?style=for-the-badge&logo=nmap" />
 </p>
 
 ---
+
 
 
 ## 🌌 Organizations I Lead
