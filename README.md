@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <img width="92%" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkmintis&layout=compact&hide_border=true&title_color=FF4500&text_color=FF4500&bg_color=2E2E2E" />
+  <img width="92%" height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkmintis&layout=compact&hide_border=true&title_color=FF4500&text_color=FF4500&bg_color=2E2E2E" />
 </p>
 
 
