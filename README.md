@@ -11,27 +11,28 @@
 ## 👨‍💻 Tools Arsenal
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb" />
-  <img src="https://img.shields.io/badge/-Kali%20Linux-557C85?style=for-the-badge&logo=kali-linux" />
-  <img src="https://img.shields.io/badge/-Burp%20Suite-6D6D6D?style=for-the-badge&logo=burp-suite" />
-  <img src="https://img.shields.io/badge/-Wireshark-9FEF00?style=for-the-badge&logo=wireshark" />
-  <img src="https://img.shields.io/badge/-Tails-3A3A3A?style=for-the-badge&logo=tails" />
-  <img src="https://img.shields.io/badge/-Git-F1502F?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker" />
-  <img src="https://img.shields.io/badge/-Vim-019733?style=for-the-badge&logo=vim" />
-  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter" />
-  <img src="https://img.shields.io/badge/-Metasploit-850F2D?style=for-the-badge&logo=metasploit" />
-  <img src="https://img.shields.io/badge/-WiFi%20Pineapple-00A2E8?style=for-the-badge&logo=hackaday" />
-  <img src="https://img.shields.io/badge/-OpenVAS-8DBA00?style=for-the-badge&logo=openvas" />
-  <img src="https://img.shields.io/badge/-Nmap-FF7F00?style=for-the-badge&logo=nmap" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Bash_Logo.png" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Node.js_logo_2015.svg" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/MongoDB-Logo.svg" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Kali_Linux_logo_2020.svg" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Burp_Suite_logo.png" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Wireshark_logo_2020.svg" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tails_logo.svg" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Logo-git.svg" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Docker_logo.png" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Vim-logo.svg" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Jupyter_logo.svg" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Metasploit_Logo.png" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/WiFi_Pineapple_logo.svg" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/OpenVAS_logo.png" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Nmap_logo.svg" width="50" />
 </p>
 
 ---
+
 
 
 
