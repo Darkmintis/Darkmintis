@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%8C%8B%20Darkmintis%20%F0%9F%8C%8B-FF4500?style=for-the-badge&logoColor=FF0000&labelColor=000000" alt="Darkmintis volcanic badge" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=24&duration=3000&pause=500&color=FF4500&background=000000&center=true&vCenter=true&width=600&lines=Forging+Code+in+Molten+Flames...;Igniting+Reality+with+Precision...;Unleashing+Vision+Like+Lava..." alt="Darkmintis tagline animation" />
+  <img src="https://github.com/darkmintis/darkmintis/Darkmintis Banner.png" alt="Darkmintis Banner" width="100%" />
 </p>
 
 <p align="center">
