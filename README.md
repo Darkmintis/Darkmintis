@@ -10,19 +10,7 @@
 
 ## Tools Arsenal
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg" alt="Python" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/bash.svg" alt="Bash" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/react.svg" alt="React" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/node-dot-js.svg" alt="Node.js" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/mongodb.svg" alt="MongoDB" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/kali-linux.svg" alt="Kali Linux" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/burp-suite.svg" alt="Burp Suite" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/wireshark.svg" alt="Wireshark" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/tails.svg" alt="Tails" width="40" height="40" />
-</p>
-
+<p align="center"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="50" /> <img src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png" alt="Bash" width="50" /> <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="50" /> <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" width="50" /> <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="50" /> <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB" width="50" /> <img src="https://raw.githubusercontent.com/github/explore/main/topics/kali-linux/kali-linux.png" alt="Kali Linux" width="50" /> <img src="https://raw.githubusercontent.com/github/explore/main/topics/burp-suite/burp-suite.png" alt="Burp Suite" width="50" /> <img src="https://raw.githubusercontent.com/github/explore/main/topics/wireshark/wireshark.png" alt="Wireshark" width="50" /> <img src="https://raw.githubusercontent.com/github/explore/main/topics/tails/tails.png" alt="Tails" width="50" /> </p>
 
 ---
 
