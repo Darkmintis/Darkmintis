@@ -26,21 +26,48 @@
 
 <h2 align="center" style="display: inline;">Organizations: </h2>
 <p align="center" style="display: inline;">
-  <span id="org-name"></span>
+  <span class="orgs">
+    <span>@Minix-Lab</span>
+    <span>@D-Dark-Lab</span>
+    <span>@Drimics-Games</span>
+    <span>@D-Project24</span>
+    <span>@BlockTech-Solutions</span>
+    <span>@Round-Tech</span>
+    <span>@Wallora-Themes</span>
+    <span>@ACE-Core</span>
+  </span>
 </p>
 
-<script>
-  const orgs = ['@Minix-Lab', '@D-Dark-Lab', '@Drimics-Games', '@D-Project24', '@BlockTech-Solutions', '@Round-Tech', '@Wallora-Themes', '@ACE-Core'];
-  let currentOrg = 0;
-  
-  function updateOrgName() {
-    document.getElementById('org-name').textContent = orgs[currentOrg];
-    currentOrg = (currentOrg + 1) % orgs.length;  // Rotate through orgs
+<style>
+  .orgs {
+    display: inline-block;
+    white-space: nowrap;
+    overflow: hidden;
+    width: 0;
+    animation: slide 16s infinite; /* Adjust the time according to your preference */
   }
-  
-  setInterval(updateOrgName, 2000);  // Update org every 2 seconds
-  updateOrgName();  // Initial call to display the first org immediately
-</script>
+
+  .orgs span {
+    display: inline-block;
+    padding-right: 20px; /* Space between organizations */
+  }
+
+  @keyframes slide {
+    0% {
+      width: 0;
+    }
+    20% {
+      width: 100%;
+    }
+    25% {
+      width: 100%;
+    }
+    100% {
+      width: 0;
+    }
+  }
+</style>
+
 
 
 
