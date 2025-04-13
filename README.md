@@ -27,6 +27,7 @@
 <h2 align="center">Organizations</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF4500&background=00000000&center=true&vCenter=true&width=800&lines=Organizations%3A+@Minix-Lab;Organizations%3A+@D-Dark-Lab;Organizations%3A+@Drimics-Games;Organizations%3A+@D-Project24;Organizations%3A+@BlockTech-Solutions;Organizations%3A+@Round-Tech;Organizations%3A+@Wallora-Themes;Organizations%3A+@ACE-Core" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=FF4500&background=00000000&width=800&lines=Organizations:+@Minix-Lab;Organizations:+@D-Dark-Lab;Organizations:+@Drimics-Games;Organizations:+@D-Project24;Organizations:+@BlockTech-Solutions;Organizations:+@Round-Tech;Organizations:+@Wallora-Themes;Organizations:+@ACE-Core" />
 </p>
+
 
