@@ -50,17 +50,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=darkmintis&theme=dracula&bg_color=000000&hide_border=true&line=FF4500&point=FF4500" />
 </p>
 
----
-
-## 🕶️ Vision
-
-> I don’t just code.  
-> I **architect systems**, **weaponize knowledge**, and **deliver impact**.  
-> Driven by **values**, fueled by **focus**, mastered through **discipline**.
-
-🧩 Stay tuned. The eruption has just begun.
-
----
 
 ## 📫 Connect with Me
 
@@ -72,5 +61,3 @@
 
 ---
 
-> _"Ethics over shortcuts. Skill over hype. Execution over talk."_  
-> – Darkmintis 🔐
