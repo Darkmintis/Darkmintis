@@ -24,10 +24,24 @@
   <img src="https://skillicons.dev/icons?i=python,bash,javascript,react,nodejs,mongodb,kali,burpsuite,wireshark,tails" />
 </p>
 
-<h2 align="center" style="display: inline;">Organizations:</h2>
+<h2 align="center" style="display: inline;">Organizations: </h2>
 <p align="center" style="display: inline;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=5000&pause=1000&color=FF4500&background=00000000&width=800&lines=@Minix-Lab|@D-Dark-Lab|@Drimics-Games|@D-Project24|@BlockTech-Solutions|@Round-Tech|@Wallora-Themes|@ACE-Core" />
+  <span id="org-name"></span>
 </p>
+
+<script>
+  const orgs = ['@Minix-Lab', '@D-Dark-Lab', '@Drimics-Games', '@D-Project24', '@BlockTech-Solutions', '@Round-Tech', '@Wallora-Themes', '@ACE-Core'];
+  let currentOrg = 0;
+  
+  function updateOrgName() {
+    document.getElementById('org-name').textContent = orgs[currentOrg];
+    currentOrg = (currentOrg + 1) % orgs.length;  // Rotate through orgs
+  }
+  
+  setInterval(updateOrgName, 2000);  // Update org every 2 seconds
+  updateOrgName();  // Initial call to display the first org immediately
+</script>
+
 
 
 
