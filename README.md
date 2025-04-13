@@ -11,17 +11,18 @@
 ## Tools Arsenal
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo.svg" alt="Python logo" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Bash_logo.svg" alt="Bash logo" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.svg" alt="JavaScript logo" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" alt="React logo" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Node.js_logo.svg" alt="Node.js logo" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB logo" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Kali_Linux_logo.svg" alt="Kali Linux logo" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Burp_Suite_logo.svg" alt="Burp Suite logo" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Wireshark_logo.svg" alt="Wireshark logo" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Tails_logo.svg" alt="Tails logo" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg" alt="Python" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/bash.svg" alt="Bash" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/react.svg" alt="React" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/node-dot-js.svg" alt="Node.js" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/mongodb.svg" alt="MongoDB" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/kali-linux.svg" alt="Kali Linux" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/burp-suite.svg" alt="Burp Suite" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/wireshark.svg" alt="Wireshark" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/tails.svg" alt="Tails" width="40" height="40" />
 </p>
+
 
 ---
 
