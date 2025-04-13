@@ -7,11 +7,16 @@
 </p>
 
 <p align="center">
-  <a href="mailto:darkmintis@gmail.com"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="30" /></a>
-  <a href="https://t.me/Darkmintis"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram" width="30" /></a>
-  <a href="https://x.com/darkmintis"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X" width="30" /></a>
+  <a href="mailto:darkmintis@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Gmail" width="30" />
+  </a>
+  <a href="https://t.me/Darkmintis">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="30" />
+  </a>
+  <a href="https://x.com/darkmintis">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/X_logo_2023.svg" alt="X" width="30" />
+  </a>
 </p>
----
 
 ## Tool Arsenal
 
@@ -28,15 +33,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tails/tails-original.svg" alt="Tails" width="50"/>
 </p>
 
----
-
 ## Organizations
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=5000&pause=1000&color=FF4500&background=00000000&border=2E2E2E&width=800&lines=D-Dark-Lab;Drimics-Games;D-Project24;Minix-Lab;BlockTech-Solutions;Round-Tech;Wallora-Themes;ACE-Core" />
 </p>
-
----
 
 ## GitHub Stats
 
@@ -49,12 +50,9 @@
   <img width="92%" height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkmintis&layout=compact&hide_border=true&title_color=FF4500&text_color=FF4500&bg_color=2E2E2E" />
 </p>
 
----
-
 ## GitHub Trophy Showcase
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=darkmintis&theme=onedark&no-frame=true&margin-w=10&column=6" />
 </p>
-
 ---
