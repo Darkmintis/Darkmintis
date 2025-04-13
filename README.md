@@ -10,7 +10,7 @@
   <a href="mailto:darkmintis@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="30" />
   </a>
-    <a href="https://x.com/darkmintis">
+  <a href="https://x.com/darkmintis">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X" width="30" />
   </a>
   <a href="https://t.me/Darkmintis">
@@ -18,13 +18,13 @@
   </a>
 </p>
 
-## Tool Arsenal
+<h2 align="center">Tool Arsenal</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,javascript,react,nodejs,mongodb,kali,burpsuite,wireshark,tails" />
 </p>
 
-## Organizations
+<h2 align="center">Organizations</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=5000&pause=1000&color=FF4500&background=00000000&border=2E2E2E&width=800&lines=D-Dark-Lab;Drimics-Games;D-Project24;Minix-Lab;BlockTech-Solutions;Round-Tech;Wallora-Themes;ACE-Core" />
