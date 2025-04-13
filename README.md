@@ -14,15 +14,8 @@
 
 ---
 
-
-
-
-
-## 🌌 Organizations I Lead
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2000&pause=300&color=FF4500&background=000000&center=true&vCenter=true&width=800&lines=@D-Dark-Lab;@Drimics-Games;@D-Project24;@Minix-Lab;@BlockTech-Solutions;@Round-Tech;@Wallora-Themes;@ACE-Core" />
-</p>
+## Organizations
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2000&pause=300&color=FF4500&background=000000&center=true&vCenter=true&width=800&lines=D-Dark-Lab;Drimics-Games;D-Project24;Minix-Lab;BlockTech-Solutions;Round-Tech;Wallora-Themes;ACE-Core" /> </p>
 
 ---
 
