@@ -24,49 +24,10 @@
   <img src="https://skillicons.dev/icons?i=python,bash,javascript,react,nodejs,mongodb,kali,burpsuite,wireshark,tails" />
 </p>
 
-<h2 align="center" style="display: inline;">Organizations: </h2>
-<p align="center" style="display: inline;">
-  <span class="orgs">
-    <span>@Minix-Lab</span>
-    <span>@D-Dark-Lab</span>
-    <span>@Drimics-Games</span>
-    <span>@D-Project24</span>
-    <span>@BlockTech-Solutions</span>
-    <span>@Round-Tech</span>
-    <span>@Wallora-Themes</span>
-    <span>@ACE-Core</span>
-  </span>
+<h2 align="center">Organizations: </h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=5000&pause=1000&color=FF4500&background=00000000&border=2E2E2E&width=800&lines=D-Dark-Lab;Drimics-Games;D-Project24;Minix-Lab;BlockTech-Solutions;Round-Tech;Wallora-Themes;ACE-Core" />
 </p>
-
-<style>
-  .orgs {
-    display: inline-block;
-    white-space: nowrap;
-    overflow: hidden;
-    width: 0;
-    animation: slide 16s infinite; /* Adjust the time according to your preference */
-  }
-
-  .orgs span {
-    display: inline-block;
-    padding-right: 20px; /* Space between organizations */
-  }
-
-  @keyframes slide {
-    0% {
-      width: 0;
-    }
-    20% {
-      width: 100%;
-    }
-    25% {
-      width: 100%;
-    }
-    100% {
-      width: 0;
-    }
-  }
-</style>
 
 
 
