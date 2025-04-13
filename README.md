@@ -10,27 +10,27 @@
   <a href="mailto:darkmintis@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="30" />
   </a>
+    <a href="https://x.com/darkmintis">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X" width="30" />
+  </a>
   <a href="https://t.me/Darkmintis">
     <img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram" width="30" />
-  </a>
-  <a href="https://x.com/darkmintis">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X" width="30" />
   </a>
 </p>
 
 ## Tool Arsenal
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kali/linux-original.svg" alt="Kali Linux" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/burp/burp-original.svg" alt="Burp Suite" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" alt="Wireshark" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tails/tails-original.svg" alt="Tails" width="50"/>
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="50"/>
+  <img src="https://img.icons8.com/color/48/000000/bash.png" alt="Bash" width="50"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="50"/>
+  <img src="https://img.icons8.com/officel/40/react.png" alt="React" width="50"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="50"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="50"/>
+  <img src="https://img.icons8.com/color/48/000000/kali-linux.png" alt="Kali Linux" width="50"/>
+  <img src="https://img.icons8.com/windows/48/000000/burp-suite.png" alt="Burp Suite" width="50"/>
+  <img src="https://img.icons8.com/color/48/000000/wireshark.png" alt="Wireshark" width="50"/>
+  <img src="https://img.icons8.com/color/48/000000/tails.png" alt="Tails" width="50"/>
 </p>
 
 ## Organizations
