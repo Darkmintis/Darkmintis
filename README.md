@@ -38,21 +38,3 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=5000&pause=1000&color=FF4500&background=00000000&border=2E2E2E&width=800&lines=D-Dark-Lab;Drimics-Games;D-Project24;Minix-Lab;BlockTech-Solutions;Round-Tech;Wallora-Themes;ACE-Core" />
 </p>
-
-## GitHub Stats
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=darkmintis&show_icons=true&hide_border=true&count_private=true&title_color=FF4500&text_color=FF4500&icon_color=FF4500&bg_color=2E2E2E" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=darkmintis&hide_border=true&ring=FF4500&fire=FF4500&currStreakLabel=FF4500&sideLabels=FF4500&dates=FF4500&sideNums=FF4500&stroke=2E2E2E&background=2E2E2E" />
-</p>
-
-<p align="center">
-  <img width="92%" height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkmintis&layout=compact&hide_border=true&title_color=FF4500&text_color=FF4500&bg_color=2E2E2E" />
-</p>
-
-## GitHub Trophy Showcase
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=darkmintis&theme=onedark&no-frame=true&margin-w=10&column=6" />
-</p>
----
