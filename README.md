@@ -11,16 +11,16 @@
 ## Tools Arsenal
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Bash_Logo_Colored.svg" alt="Bash" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/JavaScript-logo.png" alt="JavaScript" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" alt="React" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Node.js_logo_2015.svg" alt="Node.js" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Kali_Linux_logo_2017.svg" alt="Kali Linux" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Burp_Suite_logo.svg" alt="Burp Suite" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Wireshark_logo_2020.svg" alt="Wireshark" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Tails_logo.svg" alt="Tails" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo.svg" alt="Python logo" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Bash_logo.svg" alt="Bash logo" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.svg" alt="JavaScript logo" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" alt="React logo" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Node.js_logo.svg" alt="Node.js logo" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB logo" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Kali_Linux_logo.svg" alt="Kali Linux logo" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Burp_Suite_logo.svg" alt="Burp Suite logo" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Wireshark_logo.svg" alt="Wireshark logo" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Tails_logo.svg" alt="Tails logo" width="50" height="50" />
 </p>
 
 ---
