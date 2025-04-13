@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/darkmintis/darkmintis/Darkmintis Banner.png" alt="Darkmintis Banner" width="100%" />
+  <img src="https://github.com/darkmintis/darkmintis/DarkmintisBanner.png" alt="Darkmintis Banner" width="100%" />
 </p>
 
 <p align="center">
