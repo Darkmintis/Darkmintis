@@ -21,16 +21,7 @@
 ## Tool Arsenal
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="50"/>
-  <img src="https://img.icons8.com/color/48/000000/bash.png" alt="Bash" width="50"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="50"/>
-  <img src="https://img.icons8.com/officel/40/react.png" alt="React" width="50"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="50"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="50"/>
-  <img src="https://img.icons8.com/color/48/000000/kali-linux.png" alt="Kali Linux" width="50"/>
-  <img src="https://img.icons8.com/windows/48/000000/burp-suite.png" alt="Burp Suite" width="50"/>
-  <img src="https://img.icons8.com/color/48/000000/wireshark.png" alt="Wireshark" width="50"/>
-  <img src="https://img.icons8.com/color/48/000000/tails.png" alt="Tails" width="50"/>
+  <img src="https://skillicons.dev/icons?i=python,bash,javascript,react,nodejs,mongodb,kali,burpsuite,wireshark,tails" />
 </p>
 
 ## Organizations
