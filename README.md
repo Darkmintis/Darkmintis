@@ -8,13 +8,13 @@
 
 <p align="center">
   <a href="mailto:darkmintis@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Gmail" width="30" />
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="30" />
   </a>
   <a href="https://t.me/Darkmintis">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="30" />
+    <img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram" width="30" />
   </a>
-  <a href="https://x.com/darkmintis">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/X_logo_2023.svg" alt="X" width="30" />
+  <a href="https://twitter.com/darkmintis">
+    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter (X)" width="30" />
   </a>
 </p>
 
