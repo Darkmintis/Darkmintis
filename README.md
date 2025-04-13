@@ -8,30 +8,23 @@
 
 ---
 
-## 👨‍💻 Tools Arsenal
+## Tools Arsenal
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Bash_Logo.png" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Node.js_logo_2015.svg" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/MongoDB-Logo.svg" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Kali_Linux_logo_2020.svg" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Burp_Suite_logo.png" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Wireshark_logo_2020.svg" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tails_logo.svg" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Logo-git.svg" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Docker_logo.png" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Vim-logo.svg" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Jupyter_logo.svg" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Metasploit_Logo.png" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/WiFi_Pineapple_logo.svg" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/OpenVAS_logo.png" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Nmap_logo.svg" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Bash_Logo_Colored.svg" alt="Bash" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/JavaScript-logo.png" alt="JavaScript" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" alt="React" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Node.js_logo_2015.svg" alt="Node.js" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Kali_Linux_logo_2017.svg" alt="Kali Linux" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Burp_Suite_logo.svg" alt="Burp Suite" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Wireshark_logo_2020.svg" alt="Wireshark" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Tails_logo.svg" alt="Tails" width="50" height="50" />
 </p>
 
 ---
+
 
 
 
