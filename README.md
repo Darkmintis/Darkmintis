@@ -14,7 +14,7 @@
     <img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram" width="30" />
   </a>
   <a href="https://x.com/darkmintis">
-    <img src="https://img.icons8.com/ios-filled/50/000000/x.png" alt="X" width="30" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X" width="30" />
   </a>
 </p>
 
