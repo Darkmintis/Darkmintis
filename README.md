@@ -20,5 +20,22 @@
 
 <h2 align="left" style="margin: 0;">Tool Arsenal:</h2>
 <p align="center" style="margin: 0;">
-  <img src="https://skillicons.dev/icons?i=python,bash,javascript,typescript,react,nodejs,mongodb,mysql,postgres,linux,git,github,figma,docker,metasploit,aircrack-ng,hydra,netcat,wireshark,sqlmap,nmap,maltego,openvpn,kali,burpsuite,burp-suite,sslscan,ettercap,nginx,openssl,virtualbox,tails,zenmap" />
+  <!-- 🛠️ Penetration Testing -->
+  <img src="https://skillicons.dev/icons?i=kali,metasploit,aircrack-ng,hydra,sqlmap,burpsuite" />
+
+  <!-- 🌐 Network Scanning & Analysis -->
+  <img src="https://skillicons.dev/icons?i=nmap,zenmap,netcat,wireshark,sslscan,ettercap" />
+
+  <!-- 🔒 Forensics & Anonymity -->
+  <img src="https://skillicons.dev/icons?i=openvpn,openssl,tails,virtualbox" />
+
+  <!-- 🌐 API & Web Testing -->
+  <img src="https://skillicons.dev/icons?i=postman,nginx" />
+
+  <!-- 📦 DevOps & Containerization -->
+  <img src="https://skillicons.dev/icons?i=docker" />
+
+  <!-- 🎨 UI/UX & Visualization -->
+  <img src="https://skillicons.dev/icons?i=figma" />
 </p>
+
