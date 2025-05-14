@@ -22,13 +22,7 @@
 <p align="center" style="margin: 0;">
   <!-- 🛠️ Penetration Testing -->
   <img src="https://skillicons.dev/icons?i=kali" />
-
-  <!-- 🌐 Network Scanning & Analysis -->
-  <img src="https://skillicons.dev/icons?i=" />
-
-  <!-- 🔒 Forensics & Anonymity -->
-  <img src="https://skillicons.dev/icons?i=" />
-
+  
   <!-- 🌐 API & Web Testing -->
   <img src="https://skillicons.dev/icons?i=postman" />
 
