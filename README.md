@@ -21,16 +21,16 @@
 <h2 align="left" style="margin: 0;">Tool Arsenal:</h2>
 <p align="center" style="margin: 0;">
   <!-- 🛠️ Penetration Testing -->
-  <img src="https://skillicons.dev/icons?i=kali,metasploit,aircrack-ng,hydra,sqlmap,burpsuite" />
+  <img src="https://skillicons.dev/icons?i=kali" />
 
   <!-- 🌐 Network Scanning & Analysis -->
-  <img src="https://skillicons.dev/icons?i=nmap,zenmap,netcat,wireshark,sslscan,ettercap" />
+  <img src="https://skillicons.dev/icons?i=" />
 
   <!-- 🔒 Forensics & Anonymity -->
-  <img src="https://skillicons.dev/icons?i=openvpn,openssl,tails,virtualbox" />
+  <img src="https://skillicons.dev/icons?i=" />
 
   <!-- 🌐 API & Web Testing -->
-  <img src="https://skillicons.dev/icons?i=postman,nginx" />
+  <img src="https://skillicons.dev/icons?i=postman" />
 
   <!-- 📦 DevOps & Containerization -->
   <img src="https://skillicons.dev/icons?i=docker" />
