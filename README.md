@@ -21,7 +21,7 @@
 <h2 align="left" style="margin: 0;">Tool Arsenal:</h2>
 <p align="center" style="margin: 0;">
   <!-- 🛠️ Penetration Testing -->
-  <img src="https://skillicons.dev/icons?i=kali" />
+  <img src="https://skillicons.dev/icons?i=kali,python,bash,javascript" />
   
   <!-- 🌐 API & Web Testing -->
   <img src="https://skillicons.dev/icons?i=postman" />
