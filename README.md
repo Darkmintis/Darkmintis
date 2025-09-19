@@ -26,9 +26,6 @@
   <!-- 🌐 API & Web Testing -->
   <img src="https://skillicons.dev/icons?i=postman" />
 
-  <!-- 📦 DevOps & Containerization -->
-  <img src="https://skillicons.dev/icons?i=docker" />
-
   <!-- 🎨 UI/UX & Visualization -->
   <img src="https://skillicons.dev/icons?i=figma" />
 </p>
