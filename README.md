@@ -19,7 +19,7 @@
 </p>
 
 <p align="center" style="margin: 0;">
-  <img src="https://skillicons.dev/icons?i=kali,python,bash,javascript,typescript,postman,cloudflare,figma,expo,react,flutter,kotlin,nodejs,express,mongodb,firebase,gcp,blender,unity" />
+  <img src="https://skillicons.dev/icons?i=kali,<,linuxpython,bash,javascript,typescript,postman,cloudflare,figma,flutter,kotlin,react,nodejs,express,mongodb,firebase,gcp,blender,unity,docker,npm,vercel,git" />
 </p>
 
 
