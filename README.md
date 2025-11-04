@@ -18,15 +18,8 @@
   </a>
 </p>
 
-<h2 align="left" style="margin: 0;">Tool Arsenal:</h2>
 <p align="center" style="margin: 0;">
-  <!-- 🛠️ Penetration Testing -->
-  <img src="https://skillicons.dev/icons?i=kali,python,bash,javascript" />
-  
-  <!-- 🌐 API & Web Testing -->
-  <img src="https://skillicons.dev/icons?i=postman" />
-
-  <!-- 🎨 UI/UX & Visualization -->
-  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://skillicons.dev/icons?i=kali,python,bash,javascript,typescript,postman,cloudflare,figma,expo,react,flutter,kotlin,nodejs,express,mongodb,firebase,gcp,blender,unity" />
 </p>
+
 
