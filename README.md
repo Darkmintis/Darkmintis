@@ -7,13 +7,13 @@
 <p align="center"><strong>Flutter Developer • AI-Assisted Builder • Shipping Real Apps</strong></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Flutter%20Mobile-00AEEF?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Focus" />
-  <img src="https://img.shields.io/badge/Approach-AI%20Assisted%20Development-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="AI Assisted Development" />
-  <img src="https://img.shields.io/badge/Contributions-5.6k%2B%20Last%2012%20Months-FF6B00?style=for-the-badge&logo=github&logoColor=white" alt="Contributions" />
+  <img src="https://img.shields.io/badge/Focus-Flutter%20Mobile-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=111827" alt="Flutter Focus" />
+  <img src="https://img.shields.io/badge/Approach-AI%20Assisted-5B21B6?style=for-the-badge&logo=openai&logoColor=white&labelColor=111827" alt="AI Assisted Development" />
+  <img src="https://img.shields.io/badge/Contrib-5.6k%2B%20Last%2012M-166534?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" alt="Contributions" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=darkmintis&label=Profile%20Views&color=E63946&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Profile%20Views-Live-C1121F?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" alt="Profile Views" />
 </p>
 
 
