@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-Live-C1121F?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=darkmintis&label=Profile%20Views&color=C1121F&style=for-the-badge" alt="Profile Views" />
 </p>
 
 
