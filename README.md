@@ -18,16 +18,16 @@
 
 <p align="center">
   <a href="https://darkmintis.dev" title="Portfolio">
-    <img src="https://avatars.githubusercontent.com/u/95027899?v=4" alt="Portfolio" width="40" style="border-radius: 50%; margin: 0 8px;" />
+    <img src="https://avatars.githubusercontent.com/u/95027899?v=4" alt="Portfolio" width="50" style="border-radius: 50%; margin: 0 8px;" />
   </a>
   <a href="mailto:darkmintis@gmail.com" title="Email">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" width="40" style="margin: 0 8px;" />
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" width="45" style="margin: 0 8px;" />
   </a>
   <a href="https://x.com/darkmintis" title="X">
     <img src="https://cdn.simpleicons.org/x/000000" alt="X" width="40" style="margin: 0 8px;" />
   </a>
   <a href="https://t.me/Darkmintis" title="Telegram">
-    <img src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="Telegram" width="40" style="margin: 0 8px;" />
+    <img src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="Telegram" width="45" style="margin: 0 8px;" />
   </a>
 </p>
 
