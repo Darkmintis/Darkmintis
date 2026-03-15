@@ -16,20 +16,6 @@
   <img src="https://komarev.com/ghpvc/?username=darkmintis&label=Profile%20Views&color=E63946&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <a href="https://darkmintis.dev" title="Portfolio">
-    <img src="./Darkmintis.png" alt="Portfolio" width="44" height="44" style="margin: 0 8px; vertical-align: middle;" />
-  </a>
-  <a href="mailto:darkmintis@gmail.com" title="Email">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="44" height="44" style="margin: 0 8px; vertical-align: middle;" />
-  </a>
-  <a href="https://x.com/darkmintis" title="X">
-    <img src="https://cdn.simpleicons.org/x/000000" alt="X" width="44" height="44" style="margin: 0 8px; vertical-align: middle;" />
-  </a>
-  <a href="https://t.me/Darkmintis" title="Telegram">
-    <img src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram" width="44" height="44" style="margin: 0 8px; vertical-align: middle;" />
-  </a>
-</p>
 
 
 ## About Me
