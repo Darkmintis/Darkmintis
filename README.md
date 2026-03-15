@@ -31,12 +31,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://darkmintis.dev"><strong>Portfolio</strong></a> •
-  <a href="mailto:darkmintis@gmail.com"><strong>Email</strong></a> •
-  <a href="https://x.com/darkmintis"><strong>X</strong></a> •
-  <a href="https://t.me/Darkmintis"><strong>Telegram</strong></a>
-</p>
 
 ## About Me
 
