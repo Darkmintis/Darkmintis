@@ -7,27 +7,27 @@
 <p align="center"><strong>Flutter Developer • AI-Assisted Builder • Shipping Real Apps</strong></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Flutter%20Mobile-00B4D8?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Focus" />
-  <img src="https://img.shields.io/badge/Approach-AI%20Assisted%20Development-7B2CBF?style=for-the-badge&logo=openai&logoColor=white" alt="AI Assisted Development" />
-  <img src="https://img.shields.io/badge/Contributions-5.6k%2B%20Last%2012%20Months-2B9348?style=for-the-badge&logo=github&logoColor=white" alt="Contributions" />
+  <img src="https://img.shields.io/badge/Focus-Flutter%20Mobile-00AEEF?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Focus" />
+  <img src="https://img.shields.io/badge/Approach-AI%20Assisted%20Development-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="AI Assisted Development" />
+  <img src="https://img.shields.io/badge/Contributions-5.6k%2B%20Last%2012%20Months-FF6B00?style=for-the-badge&logo=github&logoColor=white" alt="Contributions" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=darkmintis&label=Profile%20Views&color=F77F00&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=darkmintis&label=Profile%20Views&color=E63946&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
   <a href="https://darkmintis.dev" title="Portfolio">
-    <img src="https://avatars.githubusercontent.com/u/95027899?v=4" alt="Portfolio" width="30" style="border-radius: 50%;" />
+    <img src="https://avatars.githubusercontent.com/u/95027899?v=4" alt="Portfolio" width="40" style="border-radius: 50%; margin: 0 8px;" />
   </a>
   <a href="mailto:darkmintis@gmail.com" title="Email">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" width="34" />
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" width="40" style="margin: 0 8px;" />
   </a>
   <a href="https://x.com/darkmintis" title="X">
-    <img src="https://cdn.simpleicons.org/x/000000" alt="X" width="30" />
+    <img src="https://cdn.simpleicons.org/x/000000" alt="X" width="40" style="margin: 0 8px;" />
   </a>
   <a href="https://t.me/Darkmintis" title="Telegram">
-    <img src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="Telegram" width="34" />
+    <img src="https://img.icons8.com/color/48/telegram-app--v1.png" alt="Telegram" width="40" style="margin: 0 8px;" />
   </a>
 </p>
 
