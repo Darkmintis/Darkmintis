@@ -28,7 +28,8 @@ I am a mobile-focused developer building practical Flutter applications that sol
 ### Blink
 
 Privacy-first image sharing for Android. No login, auto-delete, QR support.
-\Built with Flutter and Cloudflare. Live on Google Play.
+
+Built with Flutter and Cloudflare. Live on Google Play.
 [-> View on Google Play](https://play.google.com/store/apps/details?id=com.darkmintis.blink)
 
 ## Tech Stack
