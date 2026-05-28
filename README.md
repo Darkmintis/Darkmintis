@@ -27,12 +27,10 @@ I am a mobile-focused developer building practical Flutter applications that sol
 
 ### Blink
 
-Minimal Android utility application built with Flutter and focused on fast, privacy-first image sharing.
+Privacy-first image sharing for Android. No login, auto-delete, QR support.
+Built with Flutter and Cloudflare. Live on Google Play.
+[-> View on Google Play](https://play.google.com/store/apps/details?id=com.darkmintis.blink)
 
-- Platform: Android
-- Stack: Flutter, Dart
-- Status: Published on Google Play
-- Google Play: <a href="https://play.google.com/store/apps/details?id=com.darkmintis.blink">Blink on Google Play</a>
 
 ## Tech Stack
 
