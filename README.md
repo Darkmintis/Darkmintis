@@ -19,8 +19,6 @@ I am a mobile-focused developer building practical Flutter applications that sol
 - I use AI-assisted development workflows to accelerate development while maintaining code quality.
 - I learn quickly, prototype rapidly, and iterate based on real-world feedback.
 
-## Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,firebase,react,nodejs,mongodb,docker,git" alt="Tech Stack" />
 </p>
