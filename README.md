@@ -2,10 +2,7 @@
   <img src="./DarkmintisBanner.png" alt="Darkmintis Banner" width="100%" />
 </p>
 
-<h1 align="center">Dipesh Mahat (Darkmintis)</h1>
-
 <p align="center"><strong>Flutter Developer • AI-Assisted Builder • Shipping Real Apps</strong></p>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=darkmintis&label=Profile%20Views&color=C1121F&style=for-the-badge" alt="Profile Views" />
