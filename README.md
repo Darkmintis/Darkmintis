@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://darkmintis.dev">
-    <img src="./darkmintis_github_banner.svg" alt="Darkmintis Banner" width="100%" />
+    <img src="./banner.gif" alt="Darkmintis Banner" width="100%" />
   </a>
 </p>
 
