@@ -2,7 +2,7 @@
   <img src="./darkmintis_github_banner.svg" alt="Darkmintis Banner" width="100%" />
 </p>
 
-<p align="center"><strong>Flutter Developer • Rapid Prototyper • Shipping Real Apps</strong></p>
+<p align="center"><strong>Software Developer • Rapid Prototyper • Shipping Real Apps</strong></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=darkmintis&label=Profile%20Views&color=0D1117&style=for-the-badge" alt="Profile Views" />
@@ -10,7 +10,7 @@
 
 ## What I Do
 
-- **Flutter Development** → Build Android-first apps focused on real users.
+- **Software Development** → Build and ship real-world mobile and web products.
 - **Rapid Prototyping** → Turn ideas into working apps fast.
 - **Product Mindset** → Focus on usability, performance, and simplicity.
 
