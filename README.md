@@ -22,13 +22,13 @@ A Flutter-based image sharing app powered by Cloudflare, designed for fast and s
 - **Platform:** Android  
 - **Stack:** Flutter, Dart, Cloudflare  
 - **Status:** Published on Google Play  
-<a href="https://play.google.com/store/apps/details?id=com.darkmintis.blink" target="_blank" rel="noopener noreferrer">
+
+<a href="https://play.google.com/store/apps/details?id=com.darkmintis.blink">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="50"/>
 </a>
 
-<br><br>
+---
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,nodejs,firebase,cloudflare,docker,linux,git,bash" alt="Tech Stack" />
 </p>
-
