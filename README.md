@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="./darkmintis_github_banner.svg" alt="Darkmintis Banner" width="100%" />
+  <a href="https://darkmintis.dev">
+    <img src="./darkmintis_github_banner.svg" alt="Darkmintis Banner" width="100%" />
+  </a>
 </p>
 
 <p align="center"><strong>Software Developer • Rapid Prototyper • Shipping Real Apps</strong></p>
