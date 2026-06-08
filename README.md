@@ -2,25 +2,33 @@
   <img src="./darkmintis_github_banner.svg" alt="Darkmintis Banner" width="100%" />
 </p>
 
-<p align="center"><strong>Flutter Developer • AI-Assisted Builder • Shipping Real Apps</strong></p>
+<p align="center"><strong>Flutter Developer • Rapid Prototyper • Shipping Real Apps</strong></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=darkmintis&label=Profile%20Views&color=C1121F&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=darkmintis&label=Profile%20Views&color=0D1117&style=for-the-badge" alt="Profile Views" />
 </p>
 
+## What I Do
 
+- **Flutter Development** → Build Android-first apps focused on real users.
+- **Rapid Prototyping** → Turn ideas into working apps fast.
+- **Product Mindset** → Focus on usability, performance, and simplicity.
 
-## About Me
+## Featured Project
 
-I am a mobile-focused developer building practical Flutter applications that solve real user problems.
+### Blink
+A Flutter-based image sharing app powered by Cloudflare, designed for fast and simple sharing.
 
-- Main focus: Flutter mobile development for Android-first product delivery.
-- I build practical apps with clear use cases, simple UX, and production-ready behavior.
-- I use AI-assisted development workflows to accelerate development while maintaining code quality.
-- I learn quickly, prototype rapidly, and iterate based on real-world feedback.
+- **Platform:** Android  
+- **Stack:** Flutter, Dart, Cloudflare  
+- **Status:** Published on Google Play  
+<a href="https://play.google.com/store/apps/details?id=com.darkmintis.blink">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="50"/>
+</a>
+
+<br><br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,firebase,react,nodejs,mongodb,docker,git" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,nodejs,firebase,cloudflare,docker,linux,git,bash" alt="Tech Stack" />
 </p>
-
 
