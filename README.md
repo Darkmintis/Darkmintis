@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./DarkmintisBanner.png" alt="Darkmintis Banner" width="100%" />
+  <img src="./darkmintis_github_banner.svg" alt="Darkmintis Banner" width="100%" />
 </p>
 
 <p align="center"><strong>Flutter Developer • AI-Assisted Builder • Shipping Real Apps</strong></p>
