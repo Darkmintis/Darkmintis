@@ -1,0 +1,160 @@
+<svg width="1920" height="540" viewBox="0 0 1920 540" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_20_43)">
+<rect width="1920" height="540" fill="#080808"/>
+<g filter="url(#filter0_f_20_43)">
+<rect x="1136" y="131" width="92" height="83" fill="white"/>
+</g>
+<g filter="url(#filter1_f_20_43)">
+<rect x="1583" y="131" width="92" height="83" fill="white"/>
+</g>
+
+<path d="M77.3 415V173.5H167.6C237.133 173.5 271.9 208.267 271.9 277.8V310.7C271.9 380.233 237.133 415 167.6 415H77.3ZM138.2 360.05H171.1C197.7 360.05 211 346.633 211 319.8V268.7C211 241.867 197.7 228.45 171.1 228.45H138.2V360.05ZM358.134 415C318.934 415 299.334 395.983 299.334 357.95C299.334 319.917 318.934 300.9 358.134 300.9H398.384V284.1C398.384 281.067 396.867 279.55 393.834 279.55H319.984V247L344.484 228.8H398.034C437.234 228.8 456.834 248.4 456.834 287.6V415H358.134ZM357.784 359.7C357.784 362.733 359.301 364.25 362.334 364.25H398.384V345H362.334C359.301 345 357.784 346.517 357.784 349.55V359.7ZM494.533 415V254C503.399 237.2 520.666 228.8 546.333 228.8H585.533L610.033 247V279.55H563.833C558.233 279.55 554.616 280.833 552.983 283.4V415H494.533ZM635.905 415V156H694.355V286.9L748.255 228.8H806.005L810.555 238.25L747.205 306.15L815.455 405.55L810.905 415H753.505L708.705 347.8L694.355 363.55V415H635.905ZM841.161 415V228.8H1053.96C1093.16 228.8 1112.76 248.4 1112.76 287.6V415H1054.31V284.1C1054.31 281.067 1052.79 279.55 1049.76 279.55H1006.36V415H947.561V279.55H899.611V415H841.161ZM1151.33 200.1V145.85H1211.18V200.1H1151.33ZM1152.03 415V228.8H1210.48V415H1152.03ZM1250.99 415V228.8H1355.29C1394.49 228.8 1414.09 248.4 1414.09 287.6V415H1355.64V284.1C1355.64 281.067 1354.12 279.55 1351.09 279.55H1309.44V415H1250.99ZM1451.77 356.2V173.5H1510.22V228.8H1567.27V279.55H1510.22V359.7C1510.22 362.733 1511.74 364.25 1514.77 364.25H1570.77V396.8L1546.27 415H1510.57C1471.37 415 1451.77 395.4 1451.77 356.2ZM1599.62 200.1V145.85H1659.47V200.1H1599.62ZM1600.32 415V228.8H1658.77V415H1600.32ZM1693.33 396.8V364.25H1773.83C1777.56 364.25 1779.43 361.683 1779.43 356.55C1779.43 351.183 1777.68 348.15 1774.18 347.45L1738.48 341.5C1708.38 336.367 1693.33 318.517 1693.33 287.95C1693.33 248.517 1712.93 228.8 1752.13 228.8H1804.28L1828.78 247V279.55H1756.68C1752.94 279.55 1751.08 282.117 1751.08 287.25C1751.08 294.017 1752.94 297.633 1756.68 298.1L1792.38 304.05C1822.24 308.95 1837.18 326.217 1837.18 355.85C1837.18 395.283 1817.58 415 1778.38 415H1717.83L1693.33 396.8Z" fill="white"/>
+<rect x="1166" y="159" width="31" height="28" fill="#080808"/>
+<rect x="1615" y="159" width="31" height="28" fill="#080808"/>
+</g>
+<defs>
+<filter id="filter0_f_20_43" x="1036" y="31" width="292" height="283" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="50" result="effect1_foregroundBlur_20_43"/>
+</filter>
+<filter id="filter1_f_20_43" x="1483" y="31" width="292" height="283" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="50" result="effect1_foregroundBlur_20_43"/>
+</filter>
+<clipPath id="clip0_20_43">
+<rect width="1920" height="540" fill="white"/>
+</clipPath>
+
+    <filter id="i_glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="18" result="blur1"/>
+      <feGaussianBlur stdDeviation="8" result="blur2"/>
+      <feMerge><feMergeNode in="blur1"/><feMergeNode in="blur2"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="i_glow_tight" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="10"/>
+    </filter>
+    <filter id="lightning_glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="ambient" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="80"/>
+    </filter>
+
+</defs>
+
+  <!-- ══ ANIMATIONS ══ -->
+
+  <!-- Ambient bg glow — breathing -->
+  <ellipse cx="960" cy="300" rx="800" ry="180" fill="#ffffff" opacity="0" filter="url(#ambient)">
+    <animate attributeName="opacity" values="0.008;0.025;0.008" dur="4s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- ══ FIRST i DOT GLOW (mintis — first i) ══ -->
+  <!-- Soft outer halo -->
+  <ellipse cx="1182" cy="172" rx="60" ry="55" fill="#ffffff" opacity="0" filter="url(#i_glow)">
+    <animate attributeName="opacity" values="0;0;0.18;0.35;0.18;0;0;0;0" dur="5s" repeatCount="indefinite"/>
+  </ellipse>
+  <!-- Tight bright glow -->
+  <ellipse cx="1182" cy="172" rx="30" ry="28" fill="#ffffff" opacity="0" filter="url(#i_glow_tight)">
+    <animate attributeName="opacity" values="0;0;0.4;0.7;0.4;0;0;0;0" dur="5s" repeatCount="indefinite"/>
+  </ellipse>
+  <!-- Core dot bright flash -->
+  <rect x="1150" y="148" width="64" height="48" rx="4" fill="#ffffff" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.5;0.9;0.5;0;0;0;0" dur="5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Lightning from first i — realistic branching pattern -->
+  <!-- Main bolt down -->
+  <polyline points="1182,220 1178,248 1185,268 1179,292 1187,315 1180,338 1188,362 1182,385"
+    stroke="#ffffff" stroke-width="1.2" fill="none" stroke-linecap="round" stroke-linejoin="round"
+    opacity="0" filter="url(#lightning_glow)">
+    <animate attributeName="opacity" values="0;0;0.9;0.6;0.8;0.3;0;0;0" dur="5s" repeatCount="indefinite"/>
+  </polyline>
+  <!-- Branch left from first i -->
+  <polyline points="1182,268 1172,282 1162,295 1168,310 1158,328"
+    stroke="#ffffff" stroke-width="0.8" fill="none" stroke-linecap="round" stroke-linejoin="round"
+    opacity="0" filter="url(#lightning_glow)">
+    <animate attributeName="opacity" values="0;0;0.7;0.4;0.6;0.2;0;0;0" dur="5s" begin="0.05s" repeatCount="indefinite"/>
+  </polyline>
+  <!-- Branch right from first i -->
+  <polyline points="1185,292 1196,308 1190,322 1200,338 1194,352"
+    stroke="#ffffff" stroke-width="0.7" fill="none" stroke-linecap="round" stroke-linejoin="round"
+    opacity="0" filter="url(#lightning_glow)">
+    <animate attributeName="opacity" values="0;0;0.6;0.4;0.5;0.2;0;0;0" dur="5s" begin="0.08s" repeatCount="indefinite"/>
+  </polyline>
+  <!-- Tiny branch off left branch -->
+  <polyline points="1162,295 1150,302 1144,314"
+    stroke="#ffffff" stroke-width="0.5" fill="none" stroke-linecap="round" stroke-linejoin="round"
+    opacity="0" filter="url(#lightning_glow)">
+    <animate attributeName="opacity" values="0;0;0.5;0.3;0.4;0;0;0;0" dur="5s" begin="0.1s" repeatCount="indefinite"/>
+  </polyline>
+  <!-- Tiny branch off right branch -->
+  <polyline points="1190,322 1204,330 1212,342"
+    stroke="#ffffff" stroke-width="0.5" fill="none" stroke-linecap="round" stroke-linejoin="round"
+    opacity="0" filter="url(#lightning_glow)">
+    <animate attributeName="opacity" values="0;0;0.4;0.3;0;0;0;0;0" dur="5s" begin="0.12s" repeatCount="indefinite"/>
+  </polyline>
+  <!-- Mini upward spark from first i -->
+  <polyline points="1182,148 1186,128 1180,112 1188,96"
+    stroke="#ffffff" stroke-width="0.8" fill="none" stroke-linecap="round" stroke-linejoin="round"
+    opacity="0" filter="url(#lightning_glow)">
+    <animate attributeName="opacity" values="0;0;0.5;0.3;0;0;0;0;0" dur="5s" begin="0.03s" repeatCount="indefinite"/>
+  </polyline>
+
+  <!-- ══ SECOND i DOT GLOW (tis — second i) ══ -->
+  <!-- Offset timing so they dont fire at same time -->
+  <!-- Soft outer halo -->
+  <ellipse cx="1629" cy="172" rx="60" ry="55" fill="#ffffff" opacity="0" filter="url(#i_glow)">
+    <animate attributeName="opacity" values="0;0.18;0.35;0.18;0;0;0;0;0" dur="5s" begin="2.5s" repeatCount="indefinite"/>
+  </ellipse>
+  <!-- Tight bright glow -->
+  <ellipse cx="1629" cy="172" rx="30" ry="28" fill="#ffffff" opacity="0" filter="url(#i_glow_tight)">
+    <animate attributeName="opacity" values="0;0.4;0.7;0.4;0;0;0;0;0" dur="5s" begin="2.5s" repeatCount="indefinite"/>
+  </ellipse>
+  <!-- Core dot bright flash -->
+  <rect x="1597" y="148" width="64" height="48" rx="4" fill="#ffffff" opacity="0">
+    <animate attributeName="opacity" values="0;0.5;0.9;0.5;0;0;0;0;0" dur="5s" begin="2.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Lightning from second i — slightly different pattern -->
+  <!-- Main bolt down -->
+  <polyline points="1629,220 1624,246 1632,265 1626,288 1634,308 1627,332 1635,355 1628,378"
+    stroke="#ffffff" stroke-width="1.2" fill="none" stroke-linecap="round" stroke-linejoin="round"
+    opacity="0" filter="url(#lightning_glow)">
+    <animate attributeName="opacity" values="0;0.9;0.6;0.8;0.3;0;0;0;0" dur="5s" begin="2.5s" repeatCount="indefinite"/>
+  </polyline>
+  <!-- Branch right from second i -->
+  <polyline points="1629,265 1642,278 1650,292 1644,308 1655,322"
+    stroke="#ffffff" stroke-width="0.8" fill="none" stroke-linecap="round" stroke-linejoin="round"
+    opacity="0" filter="url(#lightning_glow)">
+    <animate attributeName="opacity" values="0;0.7;0.4;0.6;0.2;0;0;0;0" dur="5s" begin="2.55s" repeatCount="indefinite"/>
+  </polyline>
+  <!-- Branch left from second i -->
+  <polyline points="1626,288 1614,302 1620,318 1610,332"
+    stroke="#ffffff" stroke-width="0.7" fill="none" stroke-linecap="round" stroke-linejoin="round"
+    opacity="0" filter="url(#lightning_glow)">
+    <animate attributeName="opacity" values="0;0.6;0.4;0.5;0.2;0;0;0;0" dur="5s" begin="2.58s" repeatCount="indefinite"/>
+  </polyline>
+  <!-- Tiny branches second i -->
+  <polyline points="1650,292 1664,298 1670,310"
+    stroke="#ffffff" stroke-width="0.5" fill="none" stroke-linecap="round" stroke-linejoin="round"
+    opacity="0" filter="url(#lightning_glow)">
+    <animate attributeName="opacity" values="0;0.5;0.3;0;0;0;0;0;0" dur="5s" begin="2.6s" repeatCount="indefinite"/>
+  </polyline>
+  <polyline points="1614,302 1602,308 1596,320"
+    stroke="#ffffff" stroke-width="0.5" fill="none" stroke-linecap="round" stroke-linejoin="round"
+    opacity="0" filter="url(#lightning_glow)">
+    <animate attributeName="opacity" values="0;0.4;0.3;0;0;0;0;0;0" dur="5s" begin="2.62s" repeatCount="indefinite"/>
+  </polyline>
+  <!-- Mini upward spark second i -->
+  <polyline points="1629,148 1634,130 1626,114 1632,98"
+    stroke="#ffffff" stroke-width="0.8" fill="none" stroke-linecap="round" stroke-linejoin="round"
+    opacity="0" filter="url(#lightning_glow)">
+    <animate attributeName="opacity" values="0;0.5;0.3;0;0;0;0;0;0" dur="5s" begin="2.53s" repeatCount="indefinite"/>
+  </polyline>
+
+
+</svg>
