@@ -22,8 +22,7 @@
 A Flutter-based image sharing app powered by Cloudflare, designed for fast and simple sharing.
 
 - **Platform:** Android  
-- **Stack:** Flutter, Dart, Cloudflare  
-- **Status:** Published on Google Play  
+- **Stack:** Flutter, Dart, Cloudflare
 
 <a href="https://play.google.com/store/apps/details?id=com.darkmintis.blink">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="50"/>
